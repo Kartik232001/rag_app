@@ -58,4 +58,12 @@ Before running the application, make sure you have the following dependencies in
    streamlit run app.py
    ```
    
+## 📸 Application Screenshots
+
+Below are some screenshots of the application in action:
+
+![Screenshot 1](directory/upload.png)
+
+
+![Screenshot 2](directory/chat.png)
 

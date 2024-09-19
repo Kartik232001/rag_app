@@ -206,7 +206,7 @@ def main():
     
     st.sidebar.markdown("<div class='sidebar-divider'></div>", unsafe_allow_html=True)
     
-    st.sidebar.markdown("### 🤖 AI Model")
+    st.sidebar.markdown("### 🤖 Choose Model")
     model = st.sidebar.selectbox("Select your preferred model", models, key="model_select")
     add_vertical_space(1)
     
